@@ -1,6 +1,4 @@
-# ml-assesment1. Data Preprocessing
-python
-Copy
+# ml-assesment1. Data Preprocessin
 import pandas as pd
 import numpy as np
 from sklearn.model_selection import train_test_split
